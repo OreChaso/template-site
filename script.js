@@ -1,3 +1,4 @@
+// スライダー
 $(function(){
   $("a#scrollTop").click(function(){
       var speed = 1200;
